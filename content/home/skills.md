@@ -21,9 +21,9 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "swift"
+  icon = "apple"
   icon_pack = "fab"
-  name = "Swift"
+  name = "iOS"
   description = "80%"  
   
 [[feature]]
