@@ -35,23 +35,49 @@ date_format = "Jan 2006"
    """
 
 [[item]]
-  organization = "edX"
+  organization = ""
   # organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
+  title = "News text classification (Data Mining)"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2018-10-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = """
+   * The spider by Python is used to crawl 5 million news data in 10 different classes
+   * Realizing Bayes Classification Algorithms by naïve Python
+   * Using scikit-learn to implement classification by Logistic Regression, Support Vector Machine and Multi-Layer Perception
+
+   """
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = ""
+  organization_url = ""
+  title = "Balance (iOS application)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = "2018-12-01"
+  description = """ 
+  Balance is mainly aimed to help users to analyze their daily calories. It records daily exercise and diet to determine whether daily intake and consumption are balanced and whether fat is accumulated.
+   * Drawing the line chart of historical records
+   * Using Xunfei SDK to realize voice to text
+   * Use native animation effects to improve user interaction
+   """
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "BodyPlus (iOS application)"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = "2017-05-01"
+  description = """ 
+  The main function of BodyPlus is to provide smart wearing devices and mobile phones for interaction and to collect, real-time transmission, statistics and display of sports data.
+   * Data transfer between iOS device and smart wearing device by Bluetooth 
+   * Displaying Bluetooth data in time by using OpenGL for drawing
+   * Realizing instant messaging by HuanXin SDK
+   * Using AMAP to complete the trajectory drawing
+   """
 
 +++
