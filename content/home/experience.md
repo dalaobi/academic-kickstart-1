@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   company = "BodyPlus Technology Beijing Co., Ltd."
   company_url = ""
   location = "Beijing, China"
-  date_start = "2015-08"
-  date_end = "2017-05"
+  date_start = "2015-08-01"
+  date_end = "2017-05-01"
   description = """
   
   * Responsible for iOS app development, including programming and debugging
