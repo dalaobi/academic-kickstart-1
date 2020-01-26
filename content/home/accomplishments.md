@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Project"
 subtitle = ""
 
 # Date format
@@ -19,14 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = ""
   organization_url = ""
-  title = "Neural Networks and Deep Learning"
+  title = "Short video content understanding and recommendation contest"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2018-03-01"
   date_end = ""
-  description = ""
+  description = """
+  By constructing a deep learning model, we predict whether each user will finish viewing each work and whether the work will be praised or not.
+   * The final rank is in the top 10%
+   * The main model is constructed by xDeepFM which includes Linear, CIN and DNN. 
+   * The model and algorithm is realized by Tensorflow (Keras)
+
+   """
 
 [[item]]
   organization = "edX"
