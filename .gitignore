@@ -1,6 +1,3 @@
-# IDEs
 .idea/
-
-# Hugo
-resources/
-public/
+.vscode/
+node_modules/
